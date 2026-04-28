@@ -1,0 +1,16 @@
+.nav-link {
+    color: white;
+    text-underline-offset: 0.75rem;
+    padding-inline: 0.5rem;
+    padding-bottom: 0.25rem;
+}
+
+.nav-link:hover {
+    border-bottom: 2px solid white;
+    font-weight: bold;
+}
+
+.nav-link.active {
+    border-bottom: 2px solid white;
+    font-weight: bold;
+}
